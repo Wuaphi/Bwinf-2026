@@ -1,0 +1,11 @@
+Kleinste Anzahlen von Roboter gefunden:
+greedy:  3
+greedy + 2opt:  3
+ALNS fast:  3
+ALNS balanced:  3
+ALNS thorough:  3
+So hat der beste Algorithmus ein Minimum von  3  gefunden.
+Seine Lösung sieht so aus: 
+Route 1 : [113, 675] -> [80, 677] -> [53, 684] -> [67, 719] -> [95, 704] -> [113, 675]    size:  164.5462122018265 
+Route 2 : [124, 713] -> [154, 678] -> [169, 696] -> [156, 728] -> [124, 713]    size:  139.40949748667006 
+Route 3 : [142, 754] -> [104, 743] -> [68, 753] -> [110, 769] -> [142, 754]    size:  157.2087684768768 

@@ -1,0 +1,7 @@
+choreo04 gab diesen Output:
+ Die Choreographie mit möglichst vielen unterschiedlichen Figuren lautet: Aida, Fan, Fan, Hover, Fan, Hockey_Stick, Fan, Fan, Fan, Fan, Appel, Bounce. Und hat 6 verschiedene Figuren. Es gibt außerdem 11 Choreographien, die genauso viele unterschieldiche Figuren haben. 
+ Die Choreographie mit den meisten Figuren lautet: Fan, Fan, Hover, Fan, Hockey_Stick, Fan, Fan, Fan, Fan, Appel, Bounce, Aida. Und hat 12 Figuren. Es gibt außerdem 11 Choreographien, die genauso viele Figuren haben. 
+ Die Choreographie mit den wenigesten Figuren lautet: Hover, Fan, Hockey_Stick, Fan, Fan, Fan, Fan, Appel, Bounce, Aida, Fan, Fan. Und hat 12 Figuren. Es gibt außerdem 11 Choreographien, die genauso wenige Figuren haben. 
+ Die Choreographie mit der größt möglich zurückgelegten Strecke lautet: Fan, Appel, Bounce, Aida, Fan, Fan, Hover, Fan, Hockey_Stick, Fan, Fan, Fan. Und es wird eine Distanz von 1154 zurückgelegt. Es gibt außerdem 11 Choreographien, die auch die gleiche zurückgelegte Strecke haben. 
+ Die Choreographie mit der kleinst möglich zurückgelegten Strecke lautet: Fan, Hover, Fan, Hockey_Stick, Fan, Fan, Fan, Fan, Appel, Bounce, Aida, Fan. Und es wird eine Distanz von 1154 zurückgelegt. Es gibt außerdem 11 Choreographien, die auch die gleiche zurückgelegte Strecke haben. 
+ 

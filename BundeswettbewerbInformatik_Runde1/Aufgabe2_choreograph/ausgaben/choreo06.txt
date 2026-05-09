@@ -1,0 +1,7 @@
+choreo06 gab diesen Output:
+ Die Choreographie mit möglichst vielen unterschiedlichen Figuren lautet: Cycle_4, Cycle_Back, Cycle_4, Sides, Pairs, Cycle_4, Pairs, Cycle_Back, Cycle_Back, Cycle_Back. Und hat 4 verschiedene Figuren. Es gibt außerdem 10801 Choreographien, die genauso viele unterschieldiche Figuren haben. 
+ Die Choreographie mit den meisten Figuren lautet: Cycle_Back, Pairs, Cycle_Back, Pairs, Cycle_Back, Pairs, Cycle_Back, Pairs, Cycle_Back, Pairs, Cycle_Back, Pairs, Cycle_Back, Pairs, Cycle_Back, Pairs. Und hat 16 Figuren. Es gibt außerdem 3 Choreographien, die genauso viele Figuren haben. 
+ Die Choreographie mit den wenigesten Figuren lautet: Reverse, Sides, Reverse, Sides. Und hat 4 Figuren. Es gibt außerdem 7 Choreographien, die genauso wenige Figuren haben. 
+ Die Choreographie mit der größt möglich zurückgelegten Strecke lautet: Cycle_4, Cycle_4, Cycle_4, Cycle_4, Cycle_4, Cycle_4, Cycle_4, Cycle_4. Und es wird eine Distanz von 768 zurückgelegt. Es gibt außerdem 0 Choreographien, die auch die gleiche zurückgelegte Strecke haben. 
+ Die Choreographie mit der kleinst möglich zurückgelegten Strecke lautet: Pairs, Pairs, Pairs, Pairs, Pairs, Pairs, Pairs, Pairs, Pairs, Pairs, Pairs, Pairs, Pairs, Pairs, Pairs, Pairs. Und es wird eine Distanz von 256 zurückgelegt. Es gibt außerdem 0 Choreographien, die auch die gleiche zurückgelegte Strecke haben. 
+ 
